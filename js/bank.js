@@ -1,3 +1,4 @@
+// login from section start here
 document.getElementById('login-btn').addEventListener('click', function(){
     // user email
     const userEmailField = document.getElementById('user-email');
@@ -16,3 +17,5 @@ document.getElementById('login-btn').addEventListener('click', function(){
         error.innerText="Your Email And Password Are Incorrect !";
     }
 });
+
+// account management start here
