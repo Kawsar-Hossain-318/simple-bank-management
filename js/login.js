@@ -17,5 +17,3 @@ document.getElementById('login-btn').addEventListener('click', function(){
         error.innerText="Your Email And Password Are Incorrect !";
     }
 });
-
-// account management start here
